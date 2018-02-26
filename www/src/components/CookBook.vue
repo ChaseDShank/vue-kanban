@@ -12,7 +12,6 @@
                         <h4 class="modal-title">
                             <strong>{{activeRecipe.label}}</strong>
                         </h4>
-
                         <div class="row text-right">
                             <div class="col-xs-6">
                                 <img class="card-img-top" :src="activeRecipe.imageUrl" alt="Card image cap">
